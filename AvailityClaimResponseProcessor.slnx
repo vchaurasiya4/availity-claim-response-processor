@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AvailityClaimResponseProcessor.Api/AvailityClaimResponseProcessor.Api.csproj" />
+    <Project Path="src/AvailityClaimResponseProcessor.Core/AvailityClaimResponseProcessor.Core.csproj" />
+    <Project Path="src/AvailityClaimResponseProcessor.Infrastructure/AvailityClaimResponseProcessor.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AvailityClaimResponseProcessor.Tests/AvailityClaimResponseProcessor.Tests.csproj" />
+  </Folder>
+</Solution>
