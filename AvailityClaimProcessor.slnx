@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AvailityClaimProcessor.API/AvailityClaimProcessor.API.csproj" />
+  <Project Path="AvailityClaimProcessor.Core/AvailityClaimProcessor.Core.csproj" />
+  <Project Path="AvailityClaimProcessor.Infrastructure/AvailityClaimProcessor.Infrastructure.csproj" />
+  <Project Path="AvailityClaimProcessor.Tests/AvailityClaimProcessor.Tests.csproj" />
+</Solution>

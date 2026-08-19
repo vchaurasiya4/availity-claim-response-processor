@@ -1,0 +1,25 @@
+# Build artifacts
+**/bin/
+**/obj/
+*.user
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Downloads folder (runtime)
+downloads/
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.ide
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Logs
+*.log
